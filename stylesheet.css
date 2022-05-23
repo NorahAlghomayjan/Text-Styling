@@ -1,0 +1,5 @@
+h1 { background-color: black; color: white; text-decoration:double; font-family:"Lucida Console";}
+span {color: aqua;}
+h2 { background-color: blueviolet; text-align: center; color: white;}
+a { display: block;
+    text-align: right; background-color: cornflowerblue;}
